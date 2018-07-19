@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanBarcode.Android", "ScanBarcode\ScanBarcode.Android\ScanBarcode.Android.csproj", "{27A0E590-BD0C-4592-8FE0-0D778F5443BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanBarcode.Android", "ScanBarcode.Android\ScanBarcode.Android.csproj", "{27A0E590-BD0C-4592-8FE0-0D778F5443BF}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ScanBarcode", "ScanBarcode\ScanBarcode\ScanBarcode.shproj", "{400B834F-9B54-4F7E-B1F7-E8526864B55C}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ScanBarcode", "ScanBarcode\ScanBarcode.shproj", "{400B834F-9B54-4F7E-B1F7-E8526864B55C}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		ScanBarcode\ScanBarcode\ScanBarcode.projitems*{400b834f-9b54-4f7e-b1f7-e8526864b55c}*SharedItemsImports = 13
+		ScanBarcode\ScanBarcode.projitems*{400b834f-9b54-4f7e-b1f7-e8526864b55c}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
