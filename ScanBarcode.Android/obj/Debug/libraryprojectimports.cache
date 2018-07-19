@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Annotations\library_project_imports\support-annotations.jar;c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Compat\library_project_imports\bin\classes.jar;c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Core.UI\library_project_imports\bin\classes.jar;c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Core.Utils\library_project_imports\bin\classes.jar;c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Fragment\library_project_imports\bin\classes.jar;c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Media.Compat\library_project_imports\bin\classes.jar;c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\bin\classes.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\FastAndroidCamera\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\ZXingNetMobile\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\FastAndroidCamera\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ZXingNetMobile\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\FastAndroidCamera.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\ScanBarcode\ScanBarcode.Android\obj\Debug\__library_projects__\ZXingNetMobile.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
